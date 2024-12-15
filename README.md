@@ -31,8 +31,9 @@ Note that beetle has some python syntax, So it's pretty easy to learn Beetle.
 
 ``` Beetle
 e = input()
-fn say(e):
- print(e+1)
+
+ fn say(e):
+print(e+1)
 ```
 
 # Installation
