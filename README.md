@@ -3,7 +3,7 @@
 # The Beetle Programming Language
 Beetle is a programming language I made because I wanted to create a fast programming language for fun. Beetle scripts have the file extension .Beetle. The language is influenced within Rust, C, C++, Zig, and finally Python. Beetle was made in python
 
-Before using Beetle, Know that there is no documentation, bugs may appear, not enough syntax support. Adding more stuff will be supported on the next version and optimizations may be added.
+Before using Beetle, Know that there is n docuenatn bugs may appear, not enough syntax support. Adding more stuff will be supported on the next versin and optimizations may be added.
 
 # Our Performance
 We have a great performance. It ranges from 0.2 to 0.3 seconds to print ranging 1 to 99999.
@@ -11,12 +11,20 @@ We have a great performance. It ranges from 0.2 to 0.3 seconds to print ranging 
 # Installation
 We are going to list a tutorial for each operating system, Note that some operating systems are not supported yet.
 
-# Windows, Linux
-Not Supported Yet, But you can currently achieve this by currently using our open-source beetle compiler
+# Windows
+1. Download the `beetle.zip` file.
+2. Make sure you have Python installed (Python 3.6+ recommended).
+3. When opening the compiler remember to set it to the Python interpreter, You can download the python interpreter on their website.
+
+(This is the current way since Beetle is currently made in mobile)
 
 # Android
 
-You can achieve this by first downloading an python interpreter, Then implement our open source compiler to the file you need to create.
+1. Download an python interpreter (Reccomended Pydroid 3)
+2. Download beetle.zip
+3. Extract the zip file
+4. Open the python file from your python interpreter
+5. Run the file
 
 # Beetle Code Examples
 
@@ -35,8 +43,3 @@ e = input()
  fn say(e):
 print(e+1)
 ```
-
-# Installation
-1. Download the `beetle_compiler.py` file.
-2. Make sure you have Python installed (Python 3.6+ recommended).
-3. When opening the compiler remember to set it to the Python interpreter, You can download the python interpreter on their website.
