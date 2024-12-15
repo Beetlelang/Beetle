@@ -34,3 +34,8 @@ e = input()
 fn say(e):
  print(e+1)
 ```
+
+# Installation
+1. Download the `beetle_compiler.py` file.
+2. Make sure you have Python installed (Python 3.6+ recommended).
+3. When opening the compiler remember to set it to the Python interpreter, You can download the python interpreter on their website.
