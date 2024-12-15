@@ -1,6 +1,5 @@
-``` Beetle
+```beetle
 a = 10
 b = 5
-c = a+b
+c = a + b
 println(c)  // prints 15
-``` Beetle
