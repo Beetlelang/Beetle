@@ -3,7 +3,7 @@
 # The Beetle Programming Language
 Beetle is a programming language I made because I wanted to create a fast programming language for fun. Beetle scripts have the file extension .Beetle. The language is influenced within Rust, C, C++, Zig, and finally Python. Beetle was made in python
 
-Before using Beetle, Know that there is n docuenatn bugs may appear, not enough syntax support. Adding more stuff will be supported on the next versin and optimizations may be added.
+Before using Beetle, Know that bugs may appear, not enough syntax support. Adding more stuff will be supported on the next versin and optimizations may be added.
 
 # Our Performance
 We have a great performance. It ranges from 0.2 to 0.3 seconds to print ranging 1 to 99999.
