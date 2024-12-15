@@ -1,4 +1,4 @@
-![Beetle](Resources.name/BeetleLogo.jpg)
+![Beetle](images/BeetleLogo.jpg)
 
 # The Beetle Programming Language
 Beetle is a programming language I made because I wanted to create a fast programming language for fun. Beetle scripts have the file extension .Beetle. The language is influenced within Rust, C, C++, Zig, and finally Python. Beetle was made in python
