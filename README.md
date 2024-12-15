@@ -28,11 +28,9 @@ We are going to list a tutorial for each operating system, Note that some operat
 
 # Beetle Code Examples
 
-Adding a variable that is a float:
+printing a float number:
 ``` Beetle
-e = (sqrt(5)+1)/2
-
-print(e+1)
+println(1/2)
 ```
 
 Note that beetle has some python syntax, So it's pretty easy to learn Beetle.
@@ -41,5 +39,5 @@ Note that beetle has some python syntax, So it's pretty easy to learn Beetle.
 e = input()
 
  fn say(e):
-print(e+1)
+println(e+1)
 ```
